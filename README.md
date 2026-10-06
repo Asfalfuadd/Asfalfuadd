@@ -1,10 +1,10 @@
 ## Asfal is here!!! 🔥
 
 💻 The First Chort of the Information Teknology Program at UIN Mataram<br/>
-👾 Are Learning Programming at UIN mataram<br/>
-🎮 Enjoy Playing Games<br/>
-📷 Amateur Photogarapher<br/>
-🎧 Love Music<br/>
+👾 Software Engineer<br/>
+🎮 Mobile Legends<br/>
+📷 Photogarapher<br/>
+🎧 Music<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@asfall__) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@svall05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fuadasfal32@gmail.com) 
